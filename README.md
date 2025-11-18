@@ -1,9 +1,8 @@
-<!-- 
-  Leanur Rahman — GitHub Profile README
-  Modern • Dark-Mode Friendly • Frontend Focused
+<!--
+  Leanur Rahman — GitHub Profile
+  Dark • Minimal • Frontend-Focused
 -->
 
-<!-- Animated Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Leanur+Rahman+✨;Frontend+Developer+%26+CSE+Student;Dark+Mode+First+Web+Experiences" />
 </h1>
@@ -21,6 +20,7 @@
 
 ### ⚡ Dev Snapshot
 
+``js
 const leanur = {
   name: "Leanur Rahman",
   role: "Frontend Developer",
