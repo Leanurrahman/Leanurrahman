@@ -1,13 +1,35 @@
-<!-- 
-  Leanur Rahman — GitHub Profile README
-  Modern • Dark-Mode Friendly • Frontend Focused
+<!--
+  Leanur Rahman — GitHub Profile
+  Dark • Minimal • Frontend-Focused
 -->
 
-<!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Leanur+Rahman+✨;Frontend+Developer;CSE+Student+%40+IIUC;Tailwind+%26+JavaScript+Enthusiast;Welcome+to+My+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Leanur+Rahman+✨;Frontend+Developer+%26+CSE+Student;Dark+Mode+First+Web+Experiences" />
 </h1>
 
+<p align="center">
+  <b>Frontend Developer · 5th Semester CSE @ IIUC · Bangladesh</b><br/>
+  I like turning simple ideas into clean, responsive, dark-themed UIs.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Leanurrahman&color=00F0FF&style=flat-square" alt="Profile views" />
+</p>
+
+---
+
+### ⚡ Dev Snapshot
+
+```js
+const leanur = {
+  name: "Leanur Rahman",
+  role: "Frontend Developer",
+  location: "Bangladesh",
+  studying: "B.Sc in CSE, International Islamic University Chittagong (IIUC)",
+  focus: ["HTML", "CSS", "Tailwind", "JavaScript"],
+  currentlyLearning: ["Better UI/UX patterns", "Micro animations", "Component architecture"],
+  lookingFor: "Frontend internship opportunities (remote/on-site)",
+};
 ---
 
 ## 🌟 About Me
