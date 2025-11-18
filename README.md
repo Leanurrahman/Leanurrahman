@@ -1,75 +1,106 @@
-<!-- 
-  Leanur Rahman — GitHub Profile README
-  Modern • Dark-Mode Friendly • Frontend Focused
--->
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=38B2AC&center=true&vCenter=true&width=650&lines=Hi,+I'm+Leanur!+👋;Frontend+Developer+%7C+CSE+Student;Building+Beautiful+UIs+with+JavaScript" alt="Typing SVG" />
-  <br/>
-  <p>
-    🎯 Top 10 Student in Bangladesh · 5th Semester CSE @ IIUC  
-    <br/>
-    Crafting responsive, accessible, and dark-mode-first web experiences
-  </p>
-  <img src="https://komarev.com/ghpvc/?username=Leanurrahman&color=38B2AC&style=flat-square" alt="Profile views" />
-</div>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saydur+Rahman+✨;Frontend+Developer;WordPress+Expert;React+%7C+Tailwind+Developer;MERN+Stack+Learner;Welcome+to+My+GitHub+Profile!" />
+</h1>
 
 ---
 
-### 👨‍💻 About Me
+## 🌟 About Me
+I'm **Saydur Rahman** (**Saied53**) — a passionate **Frontend & WordPress Developer** from Bangladesh.  
+I love building clean UI, fast websites, and smooth user experiences.
 
-- 🎓 B.Sc. in CSE (5th Semester) — **International Islamic University Chittagong (IIUC)**
-- 💻 Focused on **Frontend Development** with modern JavaScript tooling
-- 🌱 Currently exploring: **Tailwind CSS, UI/UX patterns, and micro-interactions**
-- 🎨 Love building: **dark-mode-first, minimal, responsive interfaces**
-- 💼 Open to **frontend internships** (remote or on-site)
-- ✨ Motto: **Always learning. Always shipping.**
-
----
-
-### 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-> 💡 **Philosophy**: Every great app starts with a **dark mode toggle** and ends with **zero backend** (thanks, `localStorage`!).
+- 🚀 Learning: **MERN Stack & Backend**
+- 🧠 Goals: **Remote Software Engineer**
+- 🎨 Interests: UI/UX, animations, modern web design
+- ⚡ Mission: Create, learn, and inspire every day
 
 ---
 
-### 🌟 Featured Projects
+## ⚡ Tech Stack
 
-- 🔹 **[To-Do List App](https://github.com/Leanurrahman/todo-app)**  
-  > ✨ Theme toggle · Responsive layout · `localStorage` persistence  
+**Frontend:**  
+`HTML` • `CSS` • `JavaScript` • `React` • `Next.js` • `Tailwind CSS`
 
-- 🔹 **[Portfolio Website](https://github.com/Leanurrahman/portfolio)**  
-  > 🎨 Minimal design · Smooth animations · Mobile-first experience  
+**CMS:**  
+`WordPress` • `Elementor` • `Custom Theme`
 
-- 🔹 **[E-commerce Landing](https://github.com/Leanurrahman/ecom-landing)**  
-  > 🕒 Countdown timer · Interactive cards · Tailwind-powered UI  
+**Mobile:**  
+`Flutter`
 
----
+**Backend & Database:**  
+`Node.js` • `Express.js` • `MongoDB`
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Leanurrahman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Leanurrahman&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leanurrahman&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+**Tools:**  
+`Git` • `VS Code` • `Figma` • `Vercel` • `Netlify`
 
 ---
 
-### 📬 Connect With Me
+## 🔥 GitHub Stats (Neon Mode)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-url.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leanur.yourmail@example.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saied53&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saied53&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Saied53&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
 ---
 
-> ✨ **Always learning. Always shipping.**  
-> 💼 Open to **frontend internships** · Let’s build something amazing!
+## 📊 Contribution Overview (Full Visual)
+
+### 🔵 1) Contribution Calendar (Neon Blue)
+<p align="center">
+  <img src="https://ghchart.rshah.org/00F0FF/Saied53" alt="Saied53’s GitHub Contribution Chart" />
+</p>
+
+### 🟣 2) Activity Graph (Dark Neon)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saied53&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+### 🟢 3) Profile Summary Card (Modern)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saied53&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements (Trophies)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saied53&theme=onedark&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 **Modern React Portfolio**
+Elegant, animated, developer portfolio  
+**Tech:** React, Tailwind, Framer Motion  
+**Live:** yoursite.com
+
+### 🔥 **WordPress Business Website**
+Custom dynamic business website  
+**Tech:** WordPress, Elementor  
+**Live:** yourproject.com
+
+### 🔥 **Flutter UI App**
+Beautiful UI screens for practice  
+**Tech:** Flutter, Dart  
+**Live:** (Add your link)
+
+---
+
+## 🌐 Connect with Me
+
+- 📧 Email: **saydurrahman3952@gmail.com**  
+- 🌍 Facebook: **[facebook.com/SaydurRahmanSaied](https://www.facebook.com/SaydurRahmanSaied)**  
+- 💼 LinkedIn: **[linkedin.com/in/saied53](https://www.linkedin.com/in/saied53/)**
+
+---
+
+<p align="center">
+  <strong>✨ Always Building • Always Learning • Always Growing ✨</strong>
+</p>
