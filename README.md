@@ -23,16 +23,18 @@ I love building clean, dark-mode-first, responsive user interfaces.
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend:**  
-`HTML` • `CSS` • `JavaScript` • `Tailwind CSS`
+Daily drivers & comfort zone:
 
-**Version Control & Tools:**  
-`Git` • `GitHub` • `VS Code`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**What I Enjoy:**  
-`Dark mode UIs` • `Minimal design` • `Responsive layouts` • `localStorage-powered projects`
+> 💡 **Philosophy**: Every great app starts with a **dark mode toggle** and ends with **zero backend** (thanks, `localStorage`!).
 
 ---
 
@@ -133,6 +135,14 @@ A simple yet effective task management web app.
 ### 🟢 3) Profile Summary Card (Modern)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leanurrahman&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements (Trophies)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Leanurrahman&theme=onedark&no-frame=true&margin-w=10" />
 </p>
 
 ---
