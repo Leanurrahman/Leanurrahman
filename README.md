@@ -1,8 +1,8 @@
 <!-- Profile Header -->
 <div align="center">
   
-  <!-- Typing SVG Header (optional, but looks cool 😎) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Your+Name+👋;Full-stack+Developer;Open-source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <!-- Typing SVG Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Leanur+Rahman+👋;Full-stack+Developer;Open-source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 
   <p>
     <b>Shipping ideas into production • Automating the boring stuff • Breaking things to understand them</b>
@@ -10,13 +10,13 @@
 
   <!-- Badges -->
   <p>
-    <a href="https://github.com/your-username">
-      <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge" />
+    <a href="https://github.com/Leanurrahman">
+      <img src="https://img.shields.io/github/followers/Leanurrahman?label=Followers&style=for-the-badge" />
     </a>
-    <a href="https://github.com/your-username?tab=repositories">
-      <img src="https://img.shields.io/github/stars/your-username?affiliations=OWNER&style=for-the-badge" />
+    <a href="https://github.com/Leanurrahman?tab=repositories">
+      <img src="https://img.shields.io/github/stars/Leanurrahman?affiliations=OWNER&style=for-the-badge" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Leanurrahman&style=for-the-badge&label=Profile+Views" alt="Profile views" />
   </p>
 
 </div>
@@ -25,7 +25,7 @@
 
 ## 🌱 About Me
 
-- 🔭 Currently building: **[Your current project](https://github.com/your-username/your-repo)**  
+- 🔭 Currently building: **[Your current project](https://github.com/Leanurrahman/your-repo)**  
 - 🌱 Learning right now: **Next.js · TypeScript · DevOps basics**  
 - 💡 I enjoy working with: **APIs, automation, clean UI, performance-focused code**  
 - 💬 Ask me about: **JavaScript, React, Node.js, REST APIs, GitHub workflows**  
@@ -78,7 +78,7 @@
   <tr>
     <td width="50%">
 
-      ### 🚀 [Project One](https://github.com/your-username/project-one)
+      ### 🚀 [Project One](https://github.com/Leanurrahman/project-one)
       Short one-liner about what this project does and why it’s cool.
 
       - 💻 Tech: React, Node.js, MongoDB  
@@ -87,7 +87,7 @@
     </td>
     <td width="50%">
 
-      ### 🧠 [Project Two](https://github.com/your-username/project-two)
+      ### 🧠 [Project Two](https://github.com/Leanurrahman/project-two)
       Another quick description that focuses on what problem it solves.
 
       - ⚙️ Tech: Next.js, TypeScript, PostgreSQL  
@@ -98,7 +98,7 @@
   <tr>
     <td width="50%">
 
-      ### 🛡 [Project Three](https://github.com/your-username/project-three)
+      ### 🛡 [Project Three](https://github.com/Leanurrahman/project-three)
       Something unique or experimental you’re playing with.
 
       - 🧪 Tech: Whatever stack you used  
@@ -107,7 +107,7 @@
     </td>
     <td width="50%">
 
-      ### 🤖 [Project Four](https://github.com/your-username/project-four)
+      ### 🤖 [Project Four](https://github.com/Leanurrahman/project-four)
       Optional extra slot for another portfolio-worthy repo.
 
       - 🔌 Tech: APIs, automation, scripts  
@@ -124,17 +124,17 @@
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Leanurrahman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
     alt="GitHub Stats" 
   />
 
   <img 
-    src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=Leanurrahman&theme=tokyonight&hide_border=true" 
     alt="GitHub Streak" 
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leanurrahman&layout=compact&theme=tokyonight&hide_border=true" 
     alt="Top Languages" 
   />
 
