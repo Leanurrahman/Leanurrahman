@@ -16,7 +16,6 @@ I'm **Leanur Rahman** (**Leanurrahman**) — a passionate **Frontend Developer &
 I love building clean, dark-mode-first, responsive user interfaces.
 
 - 🎓 **B.Sc. in CSE, 5th Semester — International Islamic University Chittagong (IIUC)**
-- 🎯 Top 10 Student in Bangladesh (CSE-based academic ranking)
 - 🚀 Focus: **Modern frontend development with HTML, CSS, Tailwind & JavaScript**
 - 🌱 Currently exploring: **better UI/UX patterns, micro-interactions, and clean component structure**
 - 💼 Open to **frontend internships** (remote or on-site)
@@ -39,6 +38,16 @@ I love building clean, dark-mode-first, responsive user interfaces.
 
 ## 🚀 Featured Projects
 
+### 🌐 Portfolio Website  
+A clean personal portfolio to showcase projects, skills, and contact details.  
+**Repo:** [github.com/Leanurrahman/portfolio](https://github.com/Leanurrahman/portfolio)  
+**Highlights:**  
+- 🎨 Minimal, modern UI  
+- 📱 Mobile-first design  
+- ⚡ Smooth scroll & subtle animations  
+
+---
+
 ### ✅ To-Do List App  
 A simple but powerful to-do app with persistence.  
 **Repo:** [github.com/Leanurrahman/todo-app](https://github.com/Leanurrahman/todo-app)  
@@ -49,16 +58,6 @@ A simple but powerful to-do app with persistence.
 
 ---
 
-### 🧑‍💻 Portfolio Website  
-A clean personal portfolio to showcase projects and skills.  
-**Repo:** [github.com/Leanurrahman/portfolio](https://github.com/Leanurrahman/portfolio)  
-**Highlights:**  
-- 🎨 Minimal, modern UI  
-- 📱 Mobile-first design  
-- ⚡ Smooth scroll & simple animations  
-
----
-
 ### 🛒 E-commerce Landing Page  
 A landing page UI for an e-commerce concept.  
 **Repo:** [github.com/Leanurrahman/ecom-landing](https://github.com/Leanurrahman/ecom-landing)  
@@ -66,6 +65,43 @@ A landing page UI for an e-commerce concept.
 - 🕒 Countdown timer section  
 - 🃏 Interactive product cards  
 - 🌊 Tailwind-powered layout  
+
+---
+
+### 🎓 IIUC CGPA Buddy  
+Student-focused utility app to make university life easier.  
+**Highlights:**  
+- 🧮 CGPA calculator for tracking academic performance  
+- 📚 Assignment tracker & notes sharing  
+- ⏳ Exam countdown with dark/light mode  
+- 🔐 Optional access ID lock for extra privacy  
+
+---
+
+### 🏥 Hospital Management System  
+GUI-based application for managing hospital data.  
+**Highlights:**  
+- 👨‍⚕️ Manage patient, doctor, and appointment records  
+- 🗂️ Structured forms and record views  
+- 🎛️ Focus on usability and organized data flow  
+
+---
+
+### 🍔 Food Delivery Web Application  
+Responsive frontend for an online food ordering platform.  
+**Highlights:**  
+- 🧾 Menu browsing & product cards  
+- 📱 Fully responsive layout for mobile and desktop  
+- 🧭 Clean user flow from landing to order  
+
+---
+
+### 📋 Task Manager  
+A simple yet effective task management web app.  
+**Highlights:**  
+- ➕ Add, ✏️ edit, and ❌ delete tasks  
+- 🧠 Designed to organize daily to-do lists  
+- 📱 Clean, distraction-free interface  
 
 ---
 
@@ -97,14 +133,6 @@ A landing page UI for an e-commerce concept.
 ### 🟢 3) Profile Summary Card (Modern)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leanurrahman&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Achievements (Trophies)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leanurrahman&theme=onedark&no-frame=true&margin-w=10" />
 </p>
 
 ---
