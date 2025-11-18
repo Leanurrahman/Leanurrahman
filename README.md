@@ -1,129 +1,161 @@
-<!--
-  Leanur Rahman — GitHub Profile
-  Dark • Minimal • Frontend-Focused
+<!-- 
+  Leanur Rahman — GitHub Profile README
+  Modern • Dark-Mode Friendly • Frontend Focused
 -->
 
+<!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Leanur+Rahman+✨;Frontend+Developer+%26+CSE+Student;Dark+Mode+First+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Leanur+Rahman+✨;Frontend+Developer;CSE+Student+%40+IIUC;Tailwind+%26+JavaScript+Enthusiast;Welcome+to+My+GitHub+Profile!" />
 </h1>
 
+---
+
+## 🌟 About Me
+
+I'm **Leanur Rahman** (**Leanurrahman**) — a passionate **Frontend Developer & CSE Student** from Bangladesh.  
+I love building clean, dark-mode-first, responsive user interfaces.
+
+- 🎓 **B.Sc. in CSE, 5th Semester — International Islamic University Chittagong (IIUC)**
+- 🚀 Focus: **Modern frontend development with HTML, CSS, Tailwind & JavaScript**
+- 🌱 Currently exploring: **better UI/UX patterns, micro-interactions, and clean component structure**
+- 💼 Open to **frontend internships** (remote or on-site)
+- ⚡ Mission: Build, learn, and improve a little bit **every single day**
+
+---
+
+## 🛠️ Tech Stack
+
+Daily drivers & comfort zone:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+> 💡 **Philosophy**: Every great app starts with a **dark mode toggle** and ends with **zero backend** (thanks, `localStorage`!).
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Portfolio Website  
+A clean personal portfolio to showcase projects, skills, and contact details.  
+**Repo:** [github.com/Leanurrahman/portfolio](https://github.com/Leanurrahman/portfolio)  
+**Highlights:**  
+- 🎨 Minimal, modern UI  
+- 📱 Mobile-first design  
+- ⚡ Smooth scroll & subtle animations  
+
+---
+
+### ✅ To-Do List App  
+A simple but powerful to-do app with persistence.  
+**Repo:** [github.com/Leanurrahman/todo-app](https://github.com/Leanurrahman/todo-app)  
+**Highlights:**  
+- 🌓 Light/Dark theme toggle  
+- 💾 `localStorage` for saving tasks  
+- 📱 Fully responsive layout  
+
+---
+
+### 🛒 E-commerce Landing Page  
+A landing page UI for an e-commerce concept.  
+**Repo:** [github.com/Leanurrahman/ecom-landing](https://github.com/Leanurrahman/ecom-landing)  
+**Highlights:**  
+- 🕒 Countdown timer section  
+- 🃏 Interactive product cards  
+- 🌊 Tailwind-powered layout  
+
+---
+
+### 🎓 IIUC CGPA Buddy  
+Student-focused utility app to make university life easier.  
+**Highlights:**  
+- 🧮 CGPA calculator for tracking academic performance  
+- 📚 Assignment tracker & notes sharing  
+- ⏳ Exam countdown with dark/light mode  
+- 🔐 Optional access ID lock for extra privacy  
+
+---
+
+### 🏥 Hospital Management System  
+GUI-based application for managing hospital data.  
+**Highlights:**  
+- 👨‍⚕️ Manage patient, doctor, and appointment records  
+- 🗂️ Structured forms and record views  
+- 🎛️ Focus on usability and organized data flow  
+
+---
+
+### 🍔 Food Delivery Web Application  
+Responsive frontend for an online food ordering platform.  
+**Highlights:**  
+- 🧾 Menu browsing & product cards  
+- 📱 Fully responsive layout for mobile and desktop  
+- 🧭 Clean user flow from landing to order  
+
+---
+
+### 📋 Task Manager  
+A simple yet effective task management web app.  
+**Highlights:**  
+- ➕ Add, ✏️ edit, and ❌ delete tasks  
+- 🧠 Designed to organize daily to-do lists  
+- 📱 Clean, distraction-free interface  
+
+---
+
+## 🔥 GitHub Stats (Neon Mode)
+
 <p align="center">
-  <b>Frontend Developer · 5th Semester CSE @ IIUC · Bangladesh</b><br/>
-  I like turning simple ideas into clean, responsive, dark-themed UIs.
+  <img src="https://github-readme-stats.vercel.app/api?username=Leanurrahman&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leanurrahman&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leanurrahman&color=00F0FF&style=flat-square" alt="Profile views" />
+  <img src="https://streak-stats.demolab.com?user=Leanurrahman&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
-### ⚡ Dev Snapshot
+## 📊 Contribution Overview
 
-```js
-const leanur = {
-  name: "Leanur Rahman",
-  role: "Frontend Developer",
-  location: "Bangladesh",
-  studying: "B.Sc in CSE, International Islamic University Chittagong (IIUC)",
-  focus: ["HTML", "CSS", "Tailwind", "JavaScript"],
-  currentlyLearning: ["Better UI/UX patterns", "Micro animations", "Component architecture"],
-  lookingFor: "Frontend internship opportunities (remote/on-site)",
-};
-🌟 About Me
-🎓 CSE Student (5th Semester) — International Islamic University Chittagong (IIUC)
+### 🔵 1) Contribution Calendar (Neon Blue)
+<p align="center">
+  <img src="https://ghchart.rshah.org/00F0FF/Leanurrahman" alt="Leanurrahman’s GitHub Contribution Chart" />
+</p>
 
-💻 Love building: dark-mode-first, minimal, responsive interfaces
+### 🟣 2) Activity Graph (Dark Neon)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leanurrahman&theme=react-dark&hide_border=true&area=true" />
+</p>
 
-🧩 Enjoy working on: Productivity tools, student utilities, and landing pages
+### 🟢 3) Profile Summary Card (Modern)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leanurrahman&theme=tokyonight" />
+</p>
 
-🧠 Mindset: Ship small, ship often, and refactor later
+---
 
-🎯 Goal: Grow into a strong frontend engineer with a solid CS foundation
+## 🏆 GitHub Achievements (Trophies)
 
-🛠️ Tech Stack
-Daily drivers & comfort zone:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Leanurrahman&theme=onedark&no-frame=true&margin-w=10" />
+</p>
 
+---
 
+## 🌐 Connect with Me
 
-
-
-
-
-
-💡 Philosophy: Every great app starts with a dark mode toggle and ends with zero backend (thanks, localStorage!).
-
-🚀 Web UI & Frontend Projects
-🌐 Portfolio Website
-A clean personal portfolio to showcase projects, skills, and contact details.
-Repo: github.com/Leanurrahman/portfolio
-Built with: HTML · CSS · JavaScript
-Highlights: Minimal layout · Mobile-first · Smooth scrolling & subtle animations
-
-✅ To-Do List App
-A simple but powerful to-do app with persistent tasks.
-Repo: github.com/Leanurrahman/todo-app
-Built with: HTML · CSS · JavaScript
-Highlights:
-
-🌓 Light/Dark theme toggle
-
-💾 Uses localStorage so tasks survive reload
-
-📱 Fully responsive layout
-
-🛒 E-commerce Landing Page
-Landing page UI for an e-commerce concept.
-Repo: github.com/Leanurrahman/ecom-landing
-Built with: HTML · CSS · Tailwind CSS
-Highlights: Countdown section · Product cards · Tailwind-powered grid layout
-
-📝 Task Manager
-A simple yet effective task management web app.
-Built with: HTML · CSS · JavaScript
-Highlights: Add / Edit / Delete tasks · Focused, distraction-free UI
-
-🎓 Academic & Utility Projects
-🎓 IIUC CGPA Buddy
-A student utility tool designed to make university life easier.
-What it does:
-
-🧮 CGPA calculator for tracking academic progress
-
-📚 Assignment tracker & notes sharing
-
-⏳ Exam countdown with dark/light mode
-
-🔐 Optional access-ID lock for privacy
-
-🏥 Hospital Management System
-GUI-based application for managing hospital data.
-Features:
-
-👨‍⚕️ Manage patient, doctor & appointment records
-
-🗂️ Structured data views and forms
-
-🎛️ Focus on clean interaction flow
-
-🍔 Food Delivery Web Application
-Responsive interface for online food ordering & delivery.
-Features:
-
-🧾 Menu browsing & interactive cards
-
-📱 Fully responsive layout
-
-🧭 Simple user flow focused on ordering
-
-📊 GitHub in Numbers
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Leanurrahman&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leanurrahman&layout=compact&theme=tokyonight&hide_border=true" height="165" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Leanurrahman&theme=tokyonight&hide_border=true" height="155" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leanurrahman&theme=react-dark&hide_border=true&area=true" /> </p>
-📫 Connect with Me
 <!-- Replace these with your real links -->
-📧 Email: your.email@example.com
+- 📧 Email: **your.email@example.com**  
+- 💼 LinkedIn: **[linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)**  
+- 🌐 Portfolio: **your-portfolio-url.com**
 
-💼 LinkedIn: linkedin.com/in/your-profile
+---
 
-🌐 Portfolio: your-portfolio-url.com
-
-<p align="center"> <strong>✨ Always Building • Always Learning • Always Growing ✨</strong> </p> ```
+<p align="center">
+  <strong>✨ Always Building • Always Learning • Always Growing ✨</strong>
+</p>
