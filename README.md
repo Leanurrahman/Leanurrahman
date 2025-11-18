@@ -4,9 +4,7 @@
 -->
 
 <!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Leanur+Rahman+✨;Frontend+Developer;CSE+Student+%40+IIUC;Tailwind+%26+JavaScript+Enthusiast;Welcome+to+My+GitHub+Profile!" />
-</h1>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Leanur+Rahman+✨;Frontend+Developer+%26+CSE+Student;Dark+Mode+First+Web+Experiences" />
 </h1>
