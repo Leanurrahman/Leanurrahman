@@ -59,26 +59,6 @@ A clean personal portfolio to showcase projects, skills, and contact details.
 
 ---
 
-### ✅ To-Do List App  
-A simple but powerful to-do app with persistence.  
-**Repo:** [github.com/Leanurrahman/todo-app](https://github.com/Leanurrahman/todo-app)  
-**Highlights:**  
-- 🌓 Light/Dark theme toggle  
-- 💾 `localStorage` for saving tasks  
-- 📱 Fully responsive layout  
-
----
-
-### 🛒 E-commerce Landing Page  
-A landing page UI for an e-commerce concept.  
-**Repo:** [github.com/Leanurrahman/ecom-landing](https://github.com/Leanurrahman/ecom-landing)  
-**Highlights:**  
-- 🕒 Countdown timer section  
-- 🃏 Interactive product cards  
-- 🌊 Tailwind-powered layout  
-
----
-
 ### 🎓 IIUC CGPA Buddy  
 Student-focused utility app to make university life easier.  
 **Highlights:**  
