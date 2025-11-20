@@ -139,8 +139,8 @@ A simple yet effective task management web app.
 ## 🌐 Connect with Me
 
 <!-- Replace these with your real links -->
-- 📧 Email: **your.email@example.com**  
-- 💼 LinkedIn: **[linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)**  
+- 📧 Email: **rahmanleanur@example.com**  
+- 💼 LinkedIn: **[linkedin.com/in/Leanurrahman](https://www.linkedin.com/in/Leanurrahman)**  
 - 🌐 Portfolio: **your-portfolio-url.com**
 
 ---
