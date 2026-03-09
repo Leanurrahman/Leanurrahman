@@ -21,7 +21,7 @@
 
 ## 🌟 About Me
 
-I'm **Leanur Rahman** (**Leanurrahman**) — a passionate **Frontend Developer & CSE Student** from Bangladesh.  
+I'm **Leanur Rahman** — a passionate **Frontend Developer & CSE Student** from Bangladesh.  
 I love building clean, dark-mode-first, responsive user interfaces.
 
 - 🎓 **B.Sc. in CSE, 5th Semester — International Islamic University Chittagong (IIUC)**
