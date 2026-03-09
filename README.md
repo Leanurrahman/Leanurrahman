@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <b>Frontend Developer · 5th Semester CSE @ IIUC · Bangladesh</b><br/>
+  <b>Frontend Developer · 6th Semester CSE @ IIUC · Bangladesh</b><br/>
   I like turning simple ideas into clean, responsive, dark-themed UIs.
 </p>
 
